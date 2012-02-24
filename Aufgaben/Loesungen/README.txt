@@ -1,0 +1,1 @@
+Lösungen zu den Aufgaben. Bitte hier eigenen Ordner (mit Vornamen benennen) erstellen!
